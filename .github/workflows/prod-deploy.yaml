@@ -1,4 +1,4 @@
-girname: Prod Polybot Service Deployment
+name: Prod Polybot Service Deployment
 
 on:
   push:
